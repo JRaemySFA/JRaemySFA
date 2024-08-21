@@ -1,4 +1,4 @@
-My name is Julien A. Raemy and this is my GitHub account for all activities related to the [Swiss Federal Archives (SFA)](https://bar.admin.ch), where I work as a Data Scientist.
+My name is Julien A. Raemy and this is my GitHub account for all activities related to the [Swiss Federal Archives (SFA)](https://www.bar.admin.ch), where I work as a Data Scientist.
 
 You can find me on the following platforms:
 <br>
