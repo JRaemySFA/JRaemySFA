@@ -1,6 +1,7 @@
 My name is Julien A. Raemy and this is my GitHub account for all activities related to the [Swiss Federal Archives (SFA)](https://bar.admin.ch), where I work as a Data Scientist.
 
 You can find me on the following platforms:
+<br>
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-4711-5759&color=A6CE39&logo=orcid)](https://orcid.org/0000-0002-4711-5759)
 [![Google Scholar](https://img.shields.io/static/v1?label=Google%20Scholar&message=Julien%20A.%20Raemy&color=4285F4&logo=googlescholar)](https://scholar.google.ch/citations?user=pGROUG0AAAAJ&hl)
 [![Semantic Scholar](https://img.shields.io/static/v1?label=Semantic%20Scholar&message=Julien%20A.%20Raemy&color=1857B6&logo=semanticscholar)](https://www.semanticscholar.org/author/Julien-A.-Raemy/72004221)
